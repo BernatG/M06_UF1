@@ -1,0 +1,4 @@
+interpretar el levels y el level
+array para el nombre de los niveles, un array para los anchos y los largos 
+variables:
+	num levels 

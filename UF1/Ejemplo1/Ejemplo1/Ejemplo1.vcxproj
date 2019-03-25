@@ -164,6 +164,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="game.csv" />
     <None Include="personas.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
