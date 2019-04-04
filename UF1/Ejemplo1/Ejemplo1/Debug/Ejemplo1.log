@@ -1,6 +1,8 @@
 ﻿  Ejemplo1.cpp
-d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(290): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(289): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(305): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(304): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(259): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(258): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(274): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(273): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(291): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\m06_uf1\uf1\ejemplo1\ejemplo1\ejemplo1.cpp(290): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   Ejemplo1.vcxproj -> D:\M06_UF1\UF1\Ejemplo1\Debug\Ejemplo1.exe
